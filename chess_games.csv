@@ -1,0 +1,101 @@
+WHITE_USERNAME,WHITE_ELO,WHITE_RESULT,WHITE_ACCURACY,BLACK_USERNAME,BLACK_ELO,BLACK_RESULT,BLACK_ACCURACY,TIME_CONTROL,TIME_CLASS,DATE_TIME,RATED,OPENING
+GoltsevDmitry2000,2924,checkmated,68.71,MagnusCarlsen,3313,win,76.8,180+1,blitz,2025-08-19T15:28:46,True,Kings Pawn Opening Hippopotamus Defense 2.d4
+MagnusCarlsen,3315,win,94.97,vovachesss,2955,checkmated,89.9,180+1,blitz,2025-08-19T15:38:06,True,Kings Indian Attack 2...Nd7
+Sam_ChessMood,3033,timeout,76.41,MagnusCarlsen,3318,win,80.62,180+1,blitz,2025-08-19T15:54:33,True,Queens Pawn Opening
+MagnusCarlsen,3321,win,84.28,wonderfultime,3054,resigned,75.14,180+1,blitz,2025-08-19T16:01:45,True,Undefined
+rezamahdavi2008,2999,resigned,86.73,MagnusCarlsen,3323,win,92.49,180+1,blitz,2025-08-19T16:14:27,True,French Defense Advance Wade Variation 6.Be2 cxd4 7.cxd4 Bb5
+mishanick,3134,insufficient,97.75,MagnusCarlsen,3319,insufficient,98.02,180+1,blitz,2025-08-19T16:26:40,True,Nimzowitsch Defense Declined Williams Variation...6.Be3 O-O 7.Qd2 e5
+MagnusCarlsen,3329,win,96.44,Hikaru,3381,resigned,92.41,180+1,blitz,2025-08-19T16:42:07,True,Polish Opening Bugayev Attack 2...d5 3.Bb2 Bd6
+GHANDEEVAM2003,3129,resigned,75.49,MagnusCarlsen,3333,win,85.86,180+1,blitz,2025-08-19T16:47:48,True,Queens Pawn Opening Chigorin Variation...4.Bf4 Bg7 5.Qd2 O-O 6.Bh6
+MagnusCarlsen,3338,win,93.59,lachesisQ,3198,timeout,88.26,180+1,blitz,2025-08-19T17:02:07,True,Reti Opening Sicilian Invitation...3.e3 Nf6 4.Bb2 g6
+djano,2604,resigned,80.61,MagnusCarlsen,3338,win,91.96,180+1,blitz,2025-08-19T20:07:04,True,Caro Kann Defense De Bruycker Defense
+MagnusCarlsen,3339,win,78.27,purpurice,2792,checkmated,74.7,180+1,blitz,2025-08-19T20:16:41,True,Birds Opening Dutch Variation...4.Bg2 c5 5.O-O Nc6 6.d3
+rychessmaster1,2899,resigned,74.01,MagnusCarlsen,3340,win,78.57,180+1,blitz,2025-08-19T20:27:55,True,Dutch Defense Classical Variation...6.O-O Bd6 7.Bf4 Be7
+MagnusCarlsen,3342,win,88.97,only_strong_moves,2950,checkmated,77.57,180+1,blitz,2025-08-19T20:36:56,True,Undefined
+amintabatabaei,3052,resigned,85.95,MagnusCarlsen,3345,win,95.43,180+1,blitz,2025-08-19T20:54:34,True,English Opening Kings English Variation...3.Bg2 h6 4.Nc3 Bb4
+MagnusCarlsen,3348,win,94.7,Elsa167,3094,resigned,86.58,180+1,blitz,2025-08-19T21:03:07,True,Nimzowitsch Larsen Attack Modern Variation 2.Bb2 d6 3.e3 Nf6 4.d4
+HansOnTwitch,3161,resigned,81.04,MagnusCarlsen,3352,win,92.19,180+1,blitz,2025-08-19T21:13:11,True,Pirc Defense...7.Re1 e5 8.h3 Re8
+Hikaru,3382,resigned,83.34,MagnusCarlsen,3361,win,87.44,180+1,blitz,2025-08-19T21:25:49,True,Scandinavian Defense Mieses Kotrc Main Line...5.Nf3 Bf5 6.Bc4 e6 7.Bd2
+MagnusCarlsen,3365,win,93.28,jefferyx,3147,timeout,87.59,180+1,blitz,2025-08-19T21:41:24,True,Anderssen Opening 1...d5
+GHANDEEVAM2003,3157,win,82.63,MagnusCarlsen,3353,resigned,79.1,180+1,blitz,2025-08-19T21:52:19,True,Queens Pawn Opening Chigorin Variation...5.exd4 a6 6.Nf3 Nc6
+Dr_Tyger,3116,timeout,84.32,MagnusCarlsen,3356,win,87.72,180+1,blitz,2025-08-19T22:00:29,True,English Opening Symmetrical Variation...5.O-O Bg7 6.Nc3 Nc6 7.e3
+Parhamov,3146,checkmated,74.1,MagnusCarlsen,3360,win,85.05,180,blitz,2025-08-23T21:22:17,True,Queens Gambit Declined Semi Slav Defense Accelerated Move Order 4.e3 f5
+MagnusCarlsen,3348,resigned,89.24,Parhamov,3158,win,95.3,180,blitz,2025-08-23T21:26:59,True,Sicilian Defense 2.Nf3 d6 3.Bc4 Nf6 4.d3
+Parhamov,3154,timeout,85.68,MagnusCarlsen,3352,win,79.29,180,blitz,2025-08-23T21:33:21,True,Queens Pawn Opening Zukertort Variation 2...Bf5
+MagnusCarlsen,3356,win,88.75,Parhamov,3150,resigned,82.97,180,blitz,2025-08-23T21:39:09,True,Queens Gambit Declined Exchange Variation...6.bxc3 c5 7.Rb1 Be7 8.Nf3
+Parhamov,3146,resigned,88.56,MagnusCarlsen,3360,win,95.38,180,blitz,2025-08-23T21:44:34,True,Dutch Defense Classical Variation...6.Nh3 Bd6 7.O-O-O-O
+MagnusCarlsen,3364,win,80.86,Parhamov,3142,timeout,75.49,180,blitz,2025-08-23T21:51:01,True,Sicilian Defense Westerinen Attack 3...Nc6 4.Bb2
+Parhamov,3138,timeout,81.01,MagnusCarlsen,3368,win,85.11,180,blitz,2025-08-23T21:57:36,True,French Defense Classical Burn Morozevich Line 7.Qd3
+MagnusCarlsen,3368,win,84.5,guillembaches,2601,timeout,75.42,180+1,blitz,2025-08-26T15:06:29,True,Anderssen Opening 1...d5
+hitaman,2741,resigned,89.51,MagnusCarlsen,3368,win,96.81,180+1,blitz,2025-08-26T15:16:53,True,Owens Defense 2.d4 Bb7 3.Bd3
+MagnusCarlsen,3369,win,89.06,Eagle_2019,2878,resigned,85.23,180+1,blitz,2025-08-26T15:29:24,True,Trompowsky Attack Classical Defense...4.e3 c5 5.c3 Nc6
+Durarbayli,3008,timeout,92.14,MagnusCarlsen,3371,win,93.48,180+1,blitz,2025-08-26T15:39:48,True,Modern Defense Standard Line 3...a6 4.Be3 d6
+MagnusCarlsen,3358,resigned,83.85,wonderfultime,3116,win,82.83,180+1,blitz,2025-08-26T15:55:08,True,English Opening Caro Kann Defensive System...4.Nc3 a6 5.b3 Bf5
+MagnusCarlsen,3359,win,94.02,IlanSchnaider,2917,resigned,88.01,180+1,blitz,2025-08-26T16:03:37,True,Undefined
+HVillagra,2997,resigned,84.45,MagnusCarlsen,3361,win,90.3,180+1,blitz,2025-08-26T16:15:43,True,Modern Defense Standard Pseudo Austrian Attack...6.Bd3 Nd7 7.a4 b4
+MagnusCarlsen,3365,win,93.25,jefferyx,3152,resigned,88.31,180+1,blitz,2025-08-26T16:27:14,True,Clemenz Opening 1...e5
+mishanick,3135,repetition,96.64,MagnusCarlsen,3360,repetition,97.2,180+1,blitz,2025-08-26T16:42:29,True,French Defense Tarrasch Modern System 4.Bd3 c5
+Parhamov,3176,win,90.03,MagnusCarlsen,3348,timeout,90.19,180+1,blitz,2025-08-26T16:56:02,True,Kings Indian Defense Makogonov Variation 5...Nbd7
+MagnusCarlsen,3350,win,95.47,chito89,3023,resigned,84.49,180+1,blitz,2025-08-26T17:02:23,True,English Opening Agincourt Defense...8.O-O Ngf6 9.a4 c5 10.d3
+MagnusCarlsen,3350,win,93.94,movingmeats,2589,timeout,90.65,180+1,blitz,2025-08-26T20:06:07,True,Indian Game
+amiralfio,2769,win,84.26,MagnusCarlsen,3335,resigned,80.74,180+1,blitz,2025-08-26T20:18:15,True,Queens Gambit Declined Albin Countergambit 3.dxe5
+MagnusCarlsen,3335,win,96.14,aachess2006,2565,resigned,87.0,180+1,blitz,2025-08-26T20:26:09,True,Closed Sicilian Defense Grand Prix Attack 3...d6 4.Nf3
+SinisterKnight8,2639,timeout,81.66,MagnusCarlsen,3335,win,84.64,180+1,blitz,2025-08-26T20:38:17,True,London System 3...Bf5 4.e3 e6 5.c4
+Robert_Angier,3000,timeout,80.08,MagnusCarlsen,3337,win,84.95,180+1,blitz,2025-08-26T20:55:04,True,Sicilian Defense Open Najdorf Adams Attack...7.Nde2 h5 8.Bg5 Be7
+MagnusCarlsen,3339,win,92.5,Angry_Twin,2941,timeout,87.31,180+1,blitz,2025-08-26T21:06:23,True,English Opening Four Knights Kingside Fianchetto Line...8.a3 O-O 9.b4 Re8
+HansOnTwitch,3151,resigned,80.81,MagnusCarlsen,3343,win,84.63,180+1,blitz,2025-08-26T21:16:24,True,Sicilian Defense Nyezhmetdinov Rossolimo Fianchetto Variation 4.Bxc6 dxc6 5.d3
+MagnusCarlsen,3348,win,89.3,GHANDEEVAM2003,3197,resigned,83.63,180+1,blitz,2025-08-26T21:27:24,True,Indian Game 2.c3
+FairChess_on_YouTube,3173,timeout,86.7,MagnusCarlsen,3352,win,87.73,180+1,blitz,2025-08-26T21:43:23,True,Semi Slav Defense Main Line Stoltz Variation 6...b6 7.b3 Bb7
+MagnusCarlsen,3339,resigned,87.77,mishanick,3142,win,90.9,180+1,blitz,2025-08-26T21:54:54,True,Queens Gambit Declined Catalan Opening...6.O-O dxc4 7.Qc2 a6
+MITerryble,3101,checkmated,85.84,MagnusCarlsen,3342,win,93.42,180+1,blitz,2025-08-26T22:04:39,True,Queens Pawn Opening Levitsky Attack 2...f6
+Blitz_Expert23,3039,resigned,78.23,MagnusCarlsen,3344,win,84.9,180,blitz,2025-08-29T14:25:12,True,English Opening Reversed Sicilian Three Knights System 3...f5 4.d4
+MagnusCarlsen,3346,win,84.67,Blitz_Expert23,3037,resigned,72.09,180,blitz,2025-08-29T14:29:12,True,Kings Indian Defense Normal Variation 4.e4 d6
+MagnusCarlsen,3334,resigned,87.62,Parhamov,3163,win,92.63,180,blitz,2025-08-29T14:35:12,True,Sicilian Defense 2.Nf3 d6 3.Bc4 Nf6 4.d3
+Parhamov,3159,timeout,81.03,MagnusCarlsen,3338,win,80.78,180,blitz,2025-08-29T14:41:29,True,Queens Gambit Accepted Central Variation Alekhine System...7.Be3 Nb4 8.Be4 f5
+MagnusCarlsen,3342,win,89.69,Parhamov,3155,timeout,91.63,180,blitz,2025-08-29T14:48:00,True,Sicilian Defense Canal Attack...6.Ba4 b5 7.Bc2 Bb7 8.d4
+Parhamov,3151,resigned,87.73,MagnusCarlsen,3346,win,93.94,180,blitz,2025-08-29T14:53:40,True,Queens Gambit Declined Catalan Opening 4...Bb4 5.Bd2 a5
+GeorgMeier,3055,resigned,83.73,MagnusCarlsen,3349,win,91.19,180,blitz,2025-08-31T10:39:37,True,Sicilian Defense Hyperaccelerated Dragon Variation...4.e5 Nd5 5.d4 cxd4
+MagnusCarlsen,3352,win,89.77,GeorgMeier,3052,resigned,83.85,180,blitz,2025-08-31T10:44:44,True,Queens Pawn Opening English Defense 3.e4 Bb4
+GeorgMeier,3050,timeout,95.34,MagnusCarlsen,3354,win,97.59,180,blitz,2025-08-31T10:50:44,True,Indian Game Knights Variation...6.c3 Na6 7.Bg5 Be7
+MagnusCarlsen,3356,win,96.02,GeorgMeier,3048,resigned,92.59,180,blitz,2025-08-31T10:55:14,True,English Opening...3.g3 Bxf3 4.exf3 c5 5.d4
+MagnusCarlsen,3345,resigned,87.33,gurelediz,3235,win,91.49,180,blitz,2025-08-31T11:01:29,True,Queens Gambit Declined Catalan Opening...6.O-O dxc4 7.Qc2 a6
+gurelediz,3229,resigned,88.73,MagnusCarlsen,3351,win,93.62,180,blitz,2025-08-31T11:07:01,True,Reti Opening Sicilian Invitation...3.e3 Nf6 4.Bb2 g6
+MagnusCarlsen,3356,win,86.77,gurelediz,3224,resigned,82.45,180,blitz,2025-08-31T11:13:01,True,Caro Kann Defense Advance Tal Variation...7.Nge2 Nd7 8.Ng3 Bg6
+gurelediz,3219,resigned,93.62,MagnusCarlsen,3361,win,95.81,180,blitz,2025-08-31T11:19:00,True,Semi Slav Defense Anti Meran Gambit...6.Bxf6 Qxf6 7.e3 g6
+MagnusCarlsen,3235,repetition,91.68,francyIM,2975,repetition,91.11,180,blitz,2025-06-09T16:05:22,True,Kings Indian Defense Averbakh Benoni Advance Variation 7...a6 8.a4
+francyIM,2972,resigned,83.56,MagnusCarlsen,3238,win,94.5,180,blitz,2025-06-09T16:08:16,True,English Opening Great Snake Variation...11.axb4 h6 12.b5 Ne7
+MagnusCarlsen,3241,win,90.42,francyIM,2969,resigned,84.52,180,blitz,2025-06-09T16:14:22,True,Kings Indian Defense Averbakh Variation 6...Nc6
+ManuDavid2910,3063,resigned,79.23,MagnusCarlsen,3245,win,89.85,180,blitz,2025-06-10T11:58:31,True,Sicilian Defense 2.Nf3 d6 3.Nc3 e5 4.Bc4
+MagnusCarlsen,3249,win,85.92,ManuDavid2910,3059,resigned,79.68,180,blitz,2025-06-10T12:03:38,True,Queens Pawn Opening Chigorin Variation 2...e6 3.Bf4
+ManuDavid2910,3055,timeout,81.58,MagnusCarlsen,3253,win,81.57,180,blitz,2025-06-10T12:10:23,True,French Defense Exchange Variation...5.c4 Nf6 6.Nc3 O-O 7.cxd5
+MagnusCarlsen,3257,win,86.69,ManuDavid2910,3051,resigned,76.48,180,blitz,2025-06-10T12:12:33,True,Alapin Sicilian Defense...4.exd5 exd5 5.Nf3 Nc6 6.Be3
+ManuDavid2910,3047,resigned,79.55,MagnusCarlsen,3261,win,87.67,180,blitz,2025-06-10T12:18:23,True,Nimzowitsch Defense Declined Williams Variation 3.d4 Nf6 4.Nc3 g6
+MagnusCarlsen,3265,win,84.09,ManuDavid2910,3043,timeout,79.61,180,blitz,2025-06-10T12:24:58,True,Sicilian Defense McDonnell Attack...3.d3 e6 4.Nf3 d5
+ManuDavid2910,3039,resigned,87.33,MagnusCarlsen,3269,win,95.77,180,blitz,2025-06-10T12:28:08,True,Italian Game...6.Nc3 Be7 7.O-O-O-O
+MagnusCarlsen,3272,win,96.22,ManuDavid2910,3036,resigned,93.39,180,blitz,2025-06-10T12:34:13,True,French Defense Tarrasch Open Delayed Exchange Variation 5.Ngf3 Nf6 6.Bb5 Nc6 7.O-O
+ManuDavid2910,3033,resigned,84.78,MagnusCarlsen,3275,win,91.18,180,blitz,2025-06-10T12:37:55,True,Alapin Sicilian Defense...6.Nf3 b6 7.Bd3 Bb7
+MagnusCarlsen,3278,win,91.17,ManuDavid2910,3030,resigned,85.02,180,blitz,2025-06-10T12:42:50,True,Tarrasch Defense Two Knights Variation 5...Nf6 6.Bg5
+Emp3rador,2568,resigned,82.36,MagnusCarlsen,3278,win,88.39,180+1,blitz,2025-06-10T15:05:43,True,Scotch Game Malaniuk Variation 5.c3 Bc5 6.Be3 Bb6
+MagnusCarlsen,3279,win,93.9,yaghi31,2703,checkmated,79.11,180+1,blitz,2025-06-10T15:15:34,True,Bishops Opening Berlin Defense 3.d3 c6 4.Qe2 Be7
+BirdMaster3000,2855,timeout,86.24,MagnusCarlsen,3280,win,83.48,180+1,blitz,2025-06-10T15:31:41,True,Birds Opening
+MagnusCarlsen,3282,win,91.83,shimastream,2957,timeout,86.45,180+1,blitz,2025-06-10T15:42:29,True,Queens Gambit Accepted Central Variation McDonnell Defense 4.Nf3 Bb4 5.Nc3
+BogdanDeac,3094,timeout,93.13,MagnusCarlsen,3286,win,89.65,180+1,blitz,2025-06-10T16:00:49,True,Bogo Indian Defense Wade Smyslov Variation 5.g3 O-O 6.Bg2 d5 7.Qc2
+MagnusCarlsen,3291,win,85.11,Zhuu96,3140,resigned,81.3,180+1,blitz,2025-06-10T16:12:40,True,Petrovs Defense Classical Variation 3...d6
+GHANDEEVAM2003,3148,resigned,86.91,MagnusCarlsen,3296,win,92.41,180+1,blitz,2025-06-10T16:22:05,True,English Opening Caro Kann Defensive System...5.Bb2 Nbd7 6.h3 Bh5
+MagnusCarlsen,3302,win,97.01,DenLaz,3186,resigned,91.16,180+1,blitz,2025-06-10T16:32:04,True,Queens Gambit Declined Catalan Opening...11.Nc3 h6 12.Bxf6 Nxf6
+HansOnTwitch,3250,win,88.72,MagnusCarlsen,3293,timeout,83.45,180+1,blitz,2025-06-10T16:48:51,True,Italian Game Two Knights Modern Bishops Opening 4...Be7 5.Nc3 O-O
+MagnusCarlsen,3298,win,87.89,Sargsyan_Shant,3131,resigned,79.55,180+1,blitz,2025-06-10T16:56:08,True,Modern Defense Norwegian Rat
+jefferyx,3138,timeout,88.6,MagnusCarlsen,3303,win,92.34,180+1,blitz,2025-06-10T17:11:06,True,Semi Slav Defense Main Line Stoltz Center Variation...9.Qxe4 Bb4 10.Bd2 Bxd2 11.Nxd2
+angryhorse9,2584,resigned,88.87,MagnusCarlsen,3303,win,92.58,180+1,blitz,2025-06-10T20:06:08,True,English Opening
+MagnusCarlsen,3304,win,94.95,slidingknight2775,2771,timeout,88.71,180+1,blitz,2025-06-10T20:15:26,True,English Opening Neo Catalan Defense Declined 5.O-O-O-O 6.d3 c5
+evgchess5,2907,timeout,88.38,MagnusCarlsen,3306,win,92.33,180+1,blitz,2025-06-10T20:27:30,True,Sicilian Defense Kan Modern Polugaevsky Variation...8.Qe2 d6 9.O-O Nd7
+MagnusCarlsen,3309,win,96.77,scarabee43,3024,checkmated,84.12,180+1,blitz,2025-06-10T20:36:59,True,Sicilian Defense Open Accelerated Dragon Maroczy Bind Formation...9.O-O Bd7 10.Nc2 Rc8
+PursuitOfHappyness2,3088,resigned,84.43,MagnusCarlsen,3313,win,93.0,180+1,blitz,2025-06-10T20:54:19,True,Sicilian Defense Open Kupreichik Variation 6.Bg5 e6 7.Ndb5
+wonderfultime,3100,resigned,81.69,MagnusCarlsen,3317,win,86.47,180+1,blitz,2025-06-10T21:07:42,True,London System...5.e3 Qb6 6.Qc2 g6
+MagnusCarlsen,3322,win,72.25,Sina-Movahed,3160,resigned,70.88,180+1,blitz,2025-06-10T21:17:36,True,French Defense Advance Paulsen Attack...6.Bd3 cxd4 7.cxd4 Nf5
+MagnusCarlsen,3314,timeout,87.09,Hikaru,3349,win,93.86,180+1,blitz,2025-06-10T21:25:45,True,English Opening Kings English Variation...4.d4 exd4 5.Qxd4 d5 6.Nf3
+Arash_Tahbaz,3014,timeout,84.13,MagnusCarlsen,3316,win,93.7,180+1,blitz,2025-06-10T21:41:36,True,Pirc Defense Classical Variation 4...Bg7 5.Bc4 O-O 6.O-O
+MagnusCarlsen,3323,win,80.25,HansOnTwitch,3259,resigned,78.11,180+1,blitz,2025-06-10T21:53:57,True,Four Knights Game Double Spanish Variation 5.O-O
+DenLaz,3189,resigned,86.89,MagnusCarlsen,3328,win,93.77,180+1,blitz,2025-06-10T22:04:43,True,Queens Gambit Declined Exchange Positional Line...7.Bd3 h6 8.Bh4 c6
+MagnusCarlsen,3333,win,92.88,Parhamov,3171,resigned,84.51,180,blitz,2025-06-10T22:12:21,True,Queens Gambit Declined Exchange Variation...6.bxc3 c5 7.Rb1 Be7 8.Nf3
+Parhamov,3174,insufficient,89.47,MagnusCarlsen,3330,insufficient,89.52,180,blitz,2025-06-10T22:16:44,True,Giuoco Piano Game 4.O-O Nf6 5.d3 O-O 6.h3
