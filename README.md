@@ -8,7 +8,7 @@ This project implements an **ETL (Extract - Transform - Load) pipeline** using m
 
 The main objective is to process and analyze chess game data from Chess.com, with a strong focus on **streaming data processing**. The system supports large-scale data ingestion, real-time data streaming, transformation and visualization. It is designed to simulate a real-world data engineering pipeline and generate meaningful insights from gameplay data.
 
-![alt text](pipeline.png)
+![alt text](assets/pipeline.png)
 
 ## 📌 Objectives
 - Design and implement a complete **end-to-end ETL pipeline**.  
@@ -126,4 +126,4 @@ The dataset consists of **Chess.com games from 2025 onward**, collected from the
 
   - Deliver actionable insights from both historical and real-time data.  
 
-![alt text](visualization.png)
+![alt text](assets/visualization.png)
